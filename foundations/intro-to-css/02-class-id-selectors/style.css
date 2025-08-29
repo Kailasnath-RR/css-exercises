@@ -1,0 +1,16 @@
+.paragra{
+    font-family:Verdana,"Dejavu Sans",sans-serif;
+    background-color:#BD395A;
+}
+#divtwo{
+    color: blue;
+    font-size: 32px;
+}
+#parathree{
+    font-size: 24px;
+}
+#divfour{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
